@@ -1,4 +1,4 @@
-# GeminiProChat
+# GeminiChat Assignment
 
 ### Deploy With Docker
 
